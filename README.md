@@ -10,7 +10,7 @@
 
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/furzich2015/furzich2015/main/github-contribution-grid-snake.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/furzich2015/furzich2015/output/github-contribution-grid-snake.svg"></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=furzich2015&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 ![](https://github-readme-stats.vercel.app/api?username=furzich2015&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=furzich2015&theme=tokyonight&hide_border=true)</div>
